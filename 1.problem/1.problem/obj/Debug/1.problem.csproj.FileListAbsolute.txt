@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\1.problem\1.problem\bin\Debug\1.problem.exe.config
+c:\users\user\documents\visual studio 2013\Projects\1.problem\1.problem\bin\Debug\1.problem.exe
+c:\users\user\documents\visual studio 2013\Projects\1.problem\1.problem\bin\Debug\1.problem.pdb
+c:\users\user\documents\visual studio 2013\Projects\1.problem\1.problem\obj\Debug\1.problem.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\1.problem\1.problem\obj\Debug\1.problem.exe
+c:\users\user\documents\visual studio 2013\Projects\1.problem\1.problem\obj\Debug\1.problem.pdb
